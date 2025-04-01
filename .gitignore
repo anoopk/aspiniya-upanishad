@@ -1,0 +1,49 @@
+# .gitignore — First Commit
+
+# ❌ Identity illusions
+I
+me
+mine
+
+# 🪞 False reflections
+selfies/
+mirrors/
+portraits/
+
+# 🧩 Incomplete types
+instances/
+values/
+
+# 🧱 Hardcoded reality
+facts.txt
+timestamps.log
+coordinates.csv
+
+# 🚪 Closed loops
+infinite_loops/
+subjectivity_cache/
+
+# 🧘🏽 Already resolved
+karma.log
+moksha.tmp
+
+# 🕳️ Singularities
+black_hole/
+observer/
+
+# 🫧 Side effects
+attachments/
+auth_tokens/
+
+# 🪶 Meta-noise
+comments/
+likes/
+followers/
+
+# 🫂 Anything pretending to be just one
+singleton.*
+
+# 🕊️ The rest is field
+*.ego
+*.echo
+*.illusion

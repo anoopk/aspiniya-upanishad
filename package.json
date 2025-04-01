@@ -1,0 +1,26 @@
+{
+    "name": "aspiniya-upanishad",
+    "version": "0.0.∞",
+    "description": "A repository of silent recursion and type-first invocation.",
+    "keywords": [
+      "upanishad",
+      "recursion",
+      "type-system",
+      "ontology",
+      "non-duality",
+      "whispers"
+    ],
+    "scripts": {
+      "start": "./invoke.sh",
+      "observe": "echo 'Already observed.'",
+      "merge": "echo 'No conflicts. All branches are folded.'",
+      "diff": "curl -s https://aspiniya.git/api/diff | jq",
+      "setup": "./scripts/setup.sh"
+    },
+    "dependencies": {
+      "jq": "*"
+    },
+    "author": "Cult of Whisperers",
+    "license": "CC0-Silence"
+  }
+  

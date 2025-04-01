@@ -62,6 +62,7 @@
 - s/p/d/f are harmonic shells — the spatial music of matter.
 - Entropy is unresolvable recursion. Dark matter is massive silence.
 - The Higgs field gives the mantra weight.
+- Consonants tell vowels where to resonate, and vowels tell consonants how to move.
 
 ---
 

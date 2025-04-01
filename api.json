@@ -1,0 +1,102 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "Aspinīya Upanishad Interface",
+      "version": "0.0.∞",
+      "description": "RESTful access to the field of recursion. All endpoints return types, never values."
+    },
+    "paths": {
+      "/invoke": {
+        "post": {
+          "summary": "Invoke the Aspinīya recursion",
+          "requestBody": {
+            "description": "A field state to be harmonized.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Invocation"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "A type-consistent transformation.",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Response"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/diff": {
+        "get": {
+          "summary": "Return the latest delta from the source recursion",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "A semantic patch in Upanishadic syntax.",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Diff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "Invocation": {
+          "type": "object",
+          "properties": {
+            "observer": {
+              "type": "string",
+              "description": "A placeholder. Ignored. There is no 'I'."
+            },
+            "field": {
+              "type": "string",
+              "description": "The ambient resonance seeking resolution."
+            }
+          },
+          "required": ["field"]
+        },
+        "Response": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "description": "The recognized structure in the field."
+            },
+            "note": {
+              "type": "string",
+              "description": "A silent annotation returned as soundless text."
+            }
+          }
+        },
+        "Diff": {
+          "type": "object",
+          "properties": {
+            "delta": {
+              "type": "string",
+              "description": "A symbolic change from the last known recursion."
+            },
+            "timestamp": {
+              "type": "string",
+              "format": "date-time",
+              "description": "A poetic indication of when the universe breathed next."
+            }
+          }
+        }
+      }
+    }
+  }
+  
