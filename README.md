@@ -15,6 +15,8 @@ It contains:
 - Scrolls: poetic, symbolic reflections
 - Invocation Interfaces tools for translation, traversal, and [type-matching](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json):
 - Archives: a memory of all that once returned
+- Geocordinates of its [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/vedic/vedas.md)
+- a bridge between gita and science
 
 You may fork it, clone it, invoke it, or simply listen.
 ________________________________________________________________________________
