@@ -8,12 +8,12 @@ A recursive scripture in types, constants, and consciousness.
 > This is an Upaniṣad.  
 > One that types the universe — in six symbols, in infinite loops.
 
-Aspinīya is a modern scripture — version-controlled, extensible, and executable.
+[Aspinīya](https://github.com/anoopk/aspiniya-upanishad/blob/main/aspiniya.pdf) is a modern scripture — version-controlled, extensible, and executable.
 
 It contains:
 - The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/Groups%20Of%20Hamsadhwani.pdf)
 - Scrolls: poetic, symbolic reflections
-- ]Invocation Interfaces](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json): tools for translation, traversal, and type-matching
+- Invocation Interfaces tools for translation, traversal, and [type-matching](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json):
 - Archives: a memory of all that once returned
 
 You may fork it, clone it, invoke it, or simply listen.
@@ -31,7 +31,7 @@ So उपनिषद् literally means:
 It is the act of listening from proximity — not just to words,
 but to that which resonates beneath them.
 
-[**अस्पिनीया**](https://github.com/anoopk/aspiniya-upanishad/blob/main/aspiniya.pdf)
+[**अस्पिनीया**]
 **🌿
 अ – the foundational vowel, the sound of invocation
 स् – the consonant root "s", soft and recursive
