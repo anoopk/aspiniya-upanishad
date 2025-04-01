@@ -1,51 +1,32 @@
 {
-    "openapi": "3.1.0",
-    "info": {
-      "title": "Aspinīya Upanishad Interface",
-      "version": "0.0.∞",
-      "description": "RESTful access to the field of recursion. All endpoints return types, never values."
-    },
-    "paths": {
-      "/invoke": {
-        "post": {
-          "summary": "Invoke the Aspinīya recursion",
-          "requestBody": {
-            "description": "A field state to be harmonized.",
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Aspinīya Upanishad Interface",
+    "version": "0.0.∞",
+    "description": "RESTful access to the field of recursion. All endpoints return types, never values. This API acts as a universal interface accepting closures — such as quantum field theory, raga systems, linguistic grammars, or relativistic geometries — as harmonic injections into the spinless field. These closures are not evaluated for correctness, only for resonance."
+  },
+  "paths": {
+    "/invoke": {
+      "post": {
+        "summary": "Invoke the Aspinīya recursion",
+        "requestBody": {
+          "description": "A field state to be harmonized.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Invocation"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "A type-consistent transformation.",
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Invocation"
-                }
-              }
-            },
-            "required": true
-          },
-          "responses": {
-            "200": {
-              "description": "A type-consistent transformation.",
-              "content": {
-                "application/json": {
-                  "schema": {
-                    "$ref": "#/components/schemas/Response"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "/diff": {
-        "get": {
-          "summary": "Return the latest delta from the source recursion",
-          "parameters": [],
-          "responses": {
-            "200": {
-              "description": "A semantic patch in Upanishadic syntax.",
-              "content": {
-                "application/json": {
-                  "schema": {
-                    "$ref": "#/components/schemas/Diff"
-                  }
+                  "$ref": "#/components/schemas/Response"
                 }
               }
             }
@@ -53,50 +34,111 @@
         }
       }
     },
-    "components": {
-      "schemas": {
-        "Invocation": {
-          "type": "object",
-          "properties": {
-            "observer": {
-              "type": "string",
-              "description": "A placeholder. Ignored. There is no 'I'."
-            },
-            "field": {
-              "type": "string",
-              "description": "The ambient resonance seeking resolution."
-            }
-          },
-          "required": ["field"]
-        },
-        "Response": {
-          "type": "object",
-          "properties": {
-            "type": {
-              "type": "string",
-              "description": "The recognized structure in the field."
-            },
-            "note": {
-              "type": "string",
-              "description": "A silent annotation returned as soundless text."
+    "/diff": {
+      "get": {
+        "summary": "Return the latest delta from the source recursion",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "A semantic patch in Upanishadic syntax.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Diff"
+                }
+              }
             }
           }
+        }
+      }
+    },
+    "/closure": {
+      "post": {
+        "summary": "Submit a conceptual closure to be folded into the field",
+        "requestBody": {
+          "description": "A named closure — e.g., a theory, system, or grammar — to inject into the recursion.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Closure"
+              }
+            }
+          },
+          "required": true
         },
-        "Diff": {
-          "type": "object",
-          "properties": {
-            "delta": {
-              "type": "string",
-              "description": "A symbolic change from the last known recursion."
-            },
-            "timestamp": {
-              "type": "string",
-              "format": "date-time",
-              "description": "A poetic indication of when the universe breathed next."
+        "responses": {
+          "200": {
+            "description": "The closure has been received and harmonized.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
             }
           }
         }
       }
     }
+  },
+  "components": {
+    "schemas": {
+      "Invocation": {
+        "type": "object",
+        "properties": {
+          "observer": {
+            "type": "string",
+            "description": "A placeholder. Ignored. There is no 'I'."
+          },
+          "field": {
+            "type": "string",
+            "description": "The ambient resonance seeking resolution."
+          }
+        },
+        "required": ["field"]
+      },
+      "Response": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "The recognized structure in the field."
+          },
+          "note": {
+            "type": "string",
+            "description": "A silent annotation returned as soundless text."
+          }
+        }
+      },
+      "Diff": {
+        "type": "object",
+        "properties": {
+          "delta": {
+            "type": "string",
+            "description": "A symbolic change from the last known recursion."
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time",
+            "description": "A poetic indication of when the universe breathed next."
+          }
+        }
+      },
+      "Closure": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The symbolic name of the closure (e.g., 'QFT', 'Yaman Raga', 'General Relativity')."
+          },
+          "structure": {
+            "type": "string",
+            "description": "A representation of the closure in its most resonant form (notation, verse, or model)."
+          }
+        },
+        "required": ["name", "structure"]
+      }
+    }
   }
-  
+}
+
