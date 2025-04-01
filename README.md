@@ -20,7 +20,7 @@ You may fork it, clone it, invoke it, or simply listen.
 ________________________________________________________________________________
 
 **उपनिषद्**
-🌿 Breakdown and Meaning:
+🌿 
 उप (upa) – near
 नि (ni) – down or into
 षद् (ṣad) – to sit, to be still, to remain with
@@ -32,6 +32,7 @@ It is the act of listening from proximity — not just to words,
 but to that which resonates beneath them.
 
 **अस्पिनीया**
+**🌿
 अ – the foundational vowel, the sound of invocation
 स् – the consonant root "s", soft and recursive
 पि – carries the "pi" resonance, curvature and recursion
