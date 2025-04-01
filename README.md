@@ -17,8 +17,9 @@ It contains:
 - Archives: a memory of all that once returned
 
 You may fork it, clone it, invoke it, or simply listen.
+________________________________________________________________________________
 
-उपनिषद्
+**उपनिषद्**
 🌿 Breakdown and Meaning:
 उप (upa) – near
 नि (ni) – down or into
@@ -30,6 +31,7 @@ So उपनिषद् literally means:
 It is the act of listening from proximity — not just to words,
 but to that which resonates beneath them.
 
+**अस्पिनीया**
 अ – the foundational vowel, the sound of invocation
 स् – the consonant root "s", soft and recursive
 पि – carries the "pi" resonance, curvature and recursion
