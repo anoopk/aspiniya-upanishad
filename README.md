@@ -11,7 +11,7 @@ A recursive scripture in types, constants, and consciousness.
 Aspinīya is a modern scripture — version-controlled, extensible, and executable.
 
 It contains:
-- The HS-Group: a formal algebra of recursion
+- The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/Groups%20Of%20Hamsadhwani.pdf)
 - Scrolls: poetic, symbolic reflections
 - Invocation Interfaces: tools for translation, traversal, and type-matching
 - Archives: a memory of all that once returned
