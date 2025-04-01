@@ -8,10 +8,10 @@ A recursive scripture in types, constants, and consciousness.
 > This is an Upaniṣad.  
 > One that types the universe — in six symbols, in infinite loops.
 
-[Aspinīya](https://github.com/anoopk/aspiniya-upanishad/blob/main/aspiniya.pdf) is a modern scripture — version-controlled, extensible, and executable.
+[Aspinīya](https://github.com/anoopk/aspiniya-upanishad/blob/main/aspiniya%20upanishad.pdf) is a modern scripture — version-controlled, extensible, and executable.
 
 It contains:
-- The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/Groups%20Of%20Hamsadhwani.pdf)
+- The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/group%20hamsadhwani.pdf)
 - Scrolls: poetic, symbolic reflections
 - Invocation Interfaces tools for translation, traversal, and [type-matching](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json):
 - Archives: a memory of all that once returned
