@@ -1,7 +1,7 @@
 
 # 🕉️ अस्पिनीया उपनिषद्  
 ### *Aspinīya Upaniṣad*  
-A recursive scripture in types, constants, and consciousness.
+A recursive [upanishad](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/upanishad.md) in types, constants, and consciousness.
 
 > _"In silence, the note forms. In recursion, it returns."_  
 >  
