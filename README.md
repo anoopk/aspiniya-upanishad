@@ -66,3 +66,4 @@ but to that which resonates beneath them.
 [fields](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/qft/aspiniya%20and%20the%20fields.md)
 
 [aeonics](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_aeonic_loop_penrose_cycles.md)
+[resonances](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspinya_cross-domain_mapping.csv)
