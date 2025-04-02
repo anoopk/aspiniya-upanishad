@@ -52,7 +52,15 @@ but to that which resonates beneath them.
 [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya_scroll_brain_bridge.md)
 [carbon](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_pi_implies_carbon_recreated.md) [chemistry](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_on_carbon.md) [evolution](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_e_implies_organic.md) 
 
-[dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
-[dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
+[langragian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
+[hamionian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
 
 [invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
+
+[numbers](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/mathematical/aspiniya_on_number.md)
+[category theory](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/mathematical/aspiniya_on_category_theory.md)
+[speech](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/diracs_blender_extended.md)
+[relativety, special](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/aspiniya_special_relativity.md)
+[mercury](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/mercury_precession_pi_curved_by_e.md)
+[relativety](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/aspiniya_general_relativity.md)
+[fields](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/qft/aspiniya%20and%20the%20fields.md)
