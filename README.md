@@ -48,4 +48,9 @@ but to that which resonates beneath them.
 [the primes](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/e_pi_and_the_skin_of_a_prime.md)
 [np completeness](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/the_pi_e_fold_np_complete_scroll.md)
 [raga yaman considered a category theory](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/right%20brain%20consciousness/musical/category_yaman.md)
+[versioning](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/versioned%20realities.md)
+[location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya_scroll_brain_bridge.md)
+[carbon](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_pi_implies_carbon_recreated.md) [chemistry](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_on_carbon.md) [evolution](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_e_implies_organic.md) 
 
+[dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
+[dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
