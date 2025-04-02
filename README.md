@@ -41,3 +41,11 @@ but to that which resonates beneath them.
 [पि](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.pi.md) – carries the "pi" resonance, curvature and recursion
 [नी](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.e.md) – a flow, a descent, a typing function
 [या](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/developer-notes.md) – a suffix of invocation, journey, motion
+
+
+### *Listen*
+[the universal constants of nature](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations\aspiniya\theorems\pi_i_sufficiency_hypothesis.md)  
+[the primes](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations\aspiniya\theorems\e_pi_and_the_skin_of_a_prime.md)
+[np completeness](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations\aspiniya\theorems\the_pi_e_fold_np_complete_scroll.md)
+[fields](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations\aspiniya\theorems\aspiniya and the fields.md)
+[raga yaman as a category of the hamsadhwani group](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations\aspiniya\theorems\category_yaman.md)
