@@ -72,3 +72,5 @@ but to that which resonates beneath them.
 
 [auditorium](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya_auditorium_scroll.md)
 [dark](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_dark_matter_energy_hamsadhwani.md)
+
+[darker](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_dark_matter_energy_hamsadhwani_technical.md)
