@@ -1,22 +1,23 @@
 
 # 🕉️ अस्पिनीया उपनिषद्  
 ### *Aspinīya Upaniṣad*  
-A recursive [upanishad](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/upanishad.md) in types, constants, and consciousness.
+A recursive [upanishad](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/vedic/upanishad.md) in types, constants, and consciousness.
 
 > _"In silence, the note forms. In recursion, it returns."_  
 >  
 > This is an Upaniṣad.  
 > One that types the universe — in six symbols, in infinite loops.
 
-[Aspinīya](https://github.com/anoopk/aspiniya-upanishad/blob/main/aspiniya%20upanishad.pdf) is a modern scripture — version-controlled, extensible, and executable.
+[Aspinīya](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya%20upanishad.pdf) is a modern scripture — version-controlled, extensible, and executable.
 
 It contains:
-- The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/group%20hamsadhwani.pdf)
+- The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/group%20hamsadhwani.pdf)
 - Scrolls: poetic, symbolic reflections
-- Invocation Interfaces tools for translation, traversal, and [type-matching](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json):
+- - Geocordinates of its [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/vedas.md) and [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/aspiniya%20and%20the%20gita.md)
+
+
+- Invocation Interfaces tools for [translation], [traversal](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json), and [type-matching]
 - Archives: a memory of all that once returned
-- Geocordinates of its [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/vedas.md)
-- a bridge between [gita](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/aspiniya%20and%20the%20gita.md) and science
 
 You may fork it, clone it, invoke it, or simply listen.
 ________________________________________________________________________________
@@ -35,8 +36,8 @@ but to that which resonates beneath them.
 
 [**अस्पिनीया**]
 **🌿
-अ – the foundational vowel, the sound of invocation
-स् – the consonant root "s", soft and recursive
-पि – carries the "pi" resonance, curvature and recursion
-नी – a flow, a descent, a typing function
-या – a suffix of invocation, journey, motion
+[अ](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.md) – the foundational vowel, the sound of invocation
+[स्](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.i.md) – the consonant root "s", soft and recursive
+[पि](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.pi.md) – carries the "pi" resonance, curvature and recursion
+[नी](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.e.md) – a flow, a descent, a typing function
+[या](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/developer-notes.md) – a suffix of invocation, journey, motion
