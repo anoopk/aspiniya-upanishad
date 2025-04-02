@@ -52,8 +52,8 @@ but to that which resonates beneath them.
 [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya_scroll_brain_bridge.md)
 [carbon](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_pi_implies_carbon_recreated.md) [chemistry](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_on_carbon.md) [evolution](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemical/aspiniya_e_implies_organic.md) 
 
-[langragian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
-[hamionian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
+[lagrangian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
+[hamiltonian](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
 
 [invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
 
