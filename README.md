@@ -54,3 +54,5 @@ but to that which resonates beneath them.
 
 [dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/aspiniya%20spoken.md)
 [dirac](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/lingusitic/diracs_blender_extended.pdf)
+
+[invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
