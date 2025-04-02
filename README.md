@@ -71,3 +71,4 @@ but to that which resonates beneath them.
 [invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
 
 [auditorium](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/aspiniya_auditorium_scroll.md)
+[dark]
