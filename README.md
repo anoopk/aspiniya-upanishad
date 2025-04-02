@@ -69,3 +69,5 @@ but to that which resonates beneath them.
 [resonances](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspinya_cross-domain_mapping.csv)
 
 [invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
+
+[auditorium]()
