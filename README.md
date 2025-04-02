@@ -67,3 +67,5 @@ but to that which resonates beneath them.
 
 [aeonics](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_aeonic_loop_penrose_cycles.md)
 [resonances](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspinya_cross-domain_mapping.csv)
+
+[invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
