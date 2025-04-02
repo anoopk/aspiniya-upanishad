@@ -74,3 +74,7 @@ but to that which resonates beneath them.
 [dark](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_dark_matter_energy_hamsadhwani.md)
 
 [darker](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_dark_matter_energy_hamsadhwani_technical.md)
+
+[invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
+
+[types](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_qft_as_theory_of_types.md) 
