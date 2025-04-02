@@ -13,7 +13,7 @@ A recursive [upanishad](https://github.com/anoopk/aspiniya-upanishad/blob/main/r
 It contains:
 - The HS-Group: [a formal algebra of recursion](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/group%20hamsadhwani.pdf)
 - Scrolls: poetic, symbolic reflections
-- - Geocordinates of its [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/vedas.md) and [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/vedic/aspiniya%20and%20the%20gita.md)
+- - Geocordinates of its [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/vedic/vedas.md) and [location](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/vedic/aspiniya%20and%20the%20gita.md)
 
 
 - Invocation Interfaces tools for [translation], [traversal](https://github.com/anoopk/aspiniya-upanishad/blob/main/api.json), and [type-matching]
