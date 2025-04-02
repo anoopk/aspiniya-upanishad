@@ -87,4 +87,4 @@ but to that which resonates beneath them.
 
 [double slitting types](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/math/aspiniya_types_through_double_slit.md)
 
-[double slitting evolutions]()
+[double slitting evolutions](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemistry/aspiniya_speciation_as_evolutionary_double_split.md)
