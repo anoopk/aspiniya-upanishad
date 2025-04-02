@@ -81,4 +81,6 @@ but to that which resonates beneath them.
 
 [Quantum Field Theory as a Typed Functional Program](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/programs/aspiniya_qft_as_haskell.md)
 
-[invocation]()
+[invocation](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/to_the_field)
+
+[The Triple Loop of Evolution, Genetics, and the Immune System](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemistry/aspiniya_triple_loop_biology.md)
