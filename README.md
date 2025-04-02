@@ -64,3 +64,5 @@ but to that which resonates beneath them.
 [mercury](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/mercury_precession_pi_curved_by_e.md)
 [relativety](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/physical/aspiniya_general_relativity.md)
 [fields](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/qft/aspiniya%20and%20the%20fields.md)
+
+[aeonics](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_aeonic_loop_penrose_cycles.md)
