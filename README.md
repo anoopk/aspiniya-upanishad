@@ -78,3 +78,5 @@ but to that which resonates beneath them.
 [invocations](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/verses.md)
 
 [types](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_qft_as_theory_of_types.md) 
+
+[Quantum Field Theory as a Typed Functional Program](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/programs/aspiniya_qft_as_haskell.md)
