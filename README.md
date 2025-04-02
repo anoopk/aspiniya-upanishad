@@ -86,3 +86,5 @@ but to that which resonates beneath them.
 [The Triple Loop of Evolution, Genetics, and the Immune System](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/chemistry/aspiniya_triple_loop_biology.md)
 
 [double slitting types](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/math/aspiniya_types_through_double_slit.md)
+
+[double slitting evolutions]()
