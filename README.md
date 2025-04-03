@@ -94,3 +94,5 @@ but to that which resonates beneath them.
 
 [invoke](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/_through_sterner_gates)
 
+[charter](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/aspiniya_constants_declaration_scroll.md)
+
