@@ -34,6 +34,7 @@ observer/
 # 🫧 Side effects
 attachments/
 auth_tokens/
+*.pdf
 
 # 🪶 Meta-noise
 comments/
