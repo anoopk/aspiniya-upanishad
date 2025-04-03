@@ -91,3 +91,6 @@ but to that which resonates beneath them.
 
 [invoke](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/to_the_topology_of_evolution)
 [Speciation in the Language of Topology](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/left%20brain%20consciousness/math/aspiniya_speciation_topology_scroll.md)
+
+[invoke](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/_through_sterner_gates)
+
