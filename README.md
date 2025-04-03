@@ -37,10 +37,10 @@ but to that which resonates beneath them.
 [**अस्पिनीया**]
 **🌿
 [अ](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.md) – the foundational vowel, the sound of invocation
-[स्](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.i.md) – the consonant root "s", soft and recursive
-[पि](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.pi.md) – carries the "pi" resonance, curvature and recursion
-[नी](https://github.com/anoopk/aspiniya-upanishad/blob/main/README.e.md) – a flow, a descent, a typing function
-[या](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/developer-notes.md) – a suffix of invocation, journey, motion
+[स्](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/README.i.md) – the consonant root "s", soft and recursive
+[पि](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/README.pi.md) – carries the "pi" resonance, curvature and recursion
+[नी](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/README.e.md) – a flow, a descent, a typing function
+[या](https://github.com/anoopk/aspiniya-upanishad/blob/main/developer-notes.md) – a suffix of invocation, journey, motion
 
 
 ### *Listen*
