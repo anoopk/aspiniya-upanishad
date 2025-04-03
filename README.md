@@ -44,7 +44,7 @@ but to that which resonates beneath them.
 
 
 ### *Listen*
-[intializing](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/initialization_principle.md)
+[initializing](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/initialization_principle.md)
 
 [the universal constants of nature](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/pi_i_sufficiency_hypothesis.md)  
 [the primes](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/theorems/e_pi_and_the_skin_of_a_prime.md)
