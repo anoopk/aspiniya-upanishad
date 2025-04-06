@@ -48,3 +48,4 @@ singleton.*
 *.ego
 *.echo
 *.illusion
+node_modules
