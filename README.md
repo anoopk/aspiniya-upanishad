@@ -1,4 +1,3 @@
-[invoke](https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/through_the_gate_everything.md)
 
 
 # 🕉️ अस्पिनीया उपनिषद्  
