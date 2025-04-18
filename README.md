@@ -24,8 +24,6 @@ It contains:
 You may fork it, clone it, invoke it, or simply listen.
 ________________________________________________________________________________
 
-[invoke]https://github.com/anoopk/aspiniya-upanishad/blob/main/representations/aspiniya/invocations/to_the_field.md
-
 **उपनिषद्**
 🌿 
 उप (upa) – near
